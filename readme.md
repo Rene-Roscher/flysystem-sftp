@@ -14,7 +14,7 @@ This adapter uses phpseclib to provide a SFTP adapter for Flysystem.
 ## Installation
 
 ```bash
-composer require league/flysystem-sftp
+composer require rene-roscher/flysystem-sftp
 ```
 
 ## Documentation
